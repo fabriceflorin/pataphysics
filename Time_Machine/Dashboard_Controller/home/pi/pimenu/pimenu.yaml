@@ -1,0 +1,80 @@
+# Menu-Setup.
+#
+# name and label are required for each item
+# color and icon are optional
+# only gifs (48x48) are supported
+#
+---
+  - 
+    name: "past"
+    label: "Past"
+    color: "#000000"
+    icon: "TM-1-Past"
+    items: 
+      - 
+        name : "Beginning of Time"
+        label: "Beginning\nof Time"
+        color: "#000000"
+        icon: "TM-1-Past"
+      - 
+        name : "Evolution"
+        label: "Evolution"
+        color: "#000000"
+        icon: "TM-1-Past"
+      - 
+        name : "Prehistory"
+        label: "Prehistory"
+        color: "#000000"
+        icon: "TM-1-Past"
+      - 
+        name : "Ancient History"
+        label: "Ancient History"
+        color: "#000000"
+        icon: "TM-1-Past"
+      - 
+        name : "Middle Ages"
+        label: "Middle Ages"
+        color: "#000000"
+        icon: "TM-1-Past"
+      - 
+        name : "Age of Discovery"
+        label: "Age of Discovery"
+        color: "#000000"
+        icon: "TM-1-Past"
+  - 
+    name: "present"
+    label: "Present"
+    color: "#000000"
+    icon: "TM-1-Present"
+    items:
+      -
+        name : "versicherung"
+        label: "Versicherung"
+        icon : "shield"
+      -
+        name : "gehalt"
+        label: "Gehalt"
+        icon : "money"
+      -
+        name : "wisag"
+        label: "Wisag"
+        icon : "clothes.tie"
+  - 
+    name: "future"
+    label: "Future"
+    color: "#000000"
+    icon: "TM-1-Future"
+    items:
+      -
+        name : "versicherung"
+        label: "Versicherung"
+        icon : "shield"
+      -
+        name : "gehalt"
+        label: "Gehalt"
+        icon : "money"
+      -
+        name : "wisag"
+        label: "Wisag"
+        icon : "clothes.tie"
+
