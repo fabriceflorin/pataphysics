@@ -1,2 +1,8 @@
 # pataphysics
-Code repository for the Pataphysical Slot Machine, our community-created poetic oracle. Seekers are invited to get “instructions from the future” from our guide Ubu, then open a “wonderbox” for more inspiration. This collaborative art project is powered by Arduino and Raspberry Pi. It is inspired by Alfred Jarry, founder of ‘Pataphysics, the “science of imaginary solutions.” Here’s a short video of the Pataphysical Slot Machine in action: http://bit.ly/pata-video08 . Learn more at http://pataphysics.us .
+Code repository for various Pataphysical Studio projects.
+Learn more at http://pataphysics.us
+
+The Pataphysical Time Machine
+
+The Pataphysical Slot Machine, our community-created poetic oracle. Seekers are invited to get “instructions from the future” from our guide Ubu, then open a “wonderbox” for more inspiration. This collaborative art project is powered by Arduino and Raspberry Pi. It is inspired by Alfred Jarry, founder of ‘Pataphysics, the “science of imaginary solutions.” Here’s a short video of the Pataphysical Slot Machine in action: http://bit.ly/pata-video08. 
+
